@@ -2,7 +2,7 @@
 
 ## Introduction
 
-*dragonrun* is a P2P based file distribution system.
+*dragonrun* is a P2P based zip file distribution system.
 
 
 
